@@ -1,0 +1,3 @@
+rootProject.name = 'TrailRunner'
+
+include ':app'
